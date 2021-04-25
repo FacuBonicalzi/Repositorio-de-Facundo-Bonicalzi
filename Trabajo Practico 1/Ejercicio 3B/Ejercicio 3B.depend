@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619296297 source:c:\users\usuario\desktop\facultad\algoritmos y estructura de datos\trabajo practico 1\ejercicio 3b\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<iomanip>
+
